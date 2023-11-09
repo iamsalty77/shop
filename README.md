@@ -3,9 +3,9 @@
 #### 프로젝트 수행자 : 김진영(iamsalty77@gmail.com)
 
 ## 환경
-● windows 10<br>
-● java 17<br>
-● mysql 8.0.35<br>
+● Windows 10<br>
+● Java 17<br>
+● MySQL 8.0.35<br>
 ● Maven<br>
 ● Intellij
 

@@ -18,13 +18,12 @@ public class OrderHistDto {
         this.orderStatus = order.getOrderStatus();
     }
 
-    private Long orderId; //주문아이디
-    private String orderDate; //주문날짜
-    private OrderStatus orderStatus; //주문 상태
+    private Long orderId;
+    private String orderDate;
+    private OrderStatus orderStatus;
 
     private List<OrderItemDto> orderItemDtoList = new ArrayList<>();
 
-    //주문 상품리스트
     public void addOrderItemDto(OrderItemDto orderItemDto){
         orderItemDtoList.add(orderItemDto);
     }

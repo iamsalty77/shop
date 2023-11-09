@@ -60,7 +60,6 @@
                 url      : url,
                 type     : "PATCH",
                 beforeSend : function(xhr){
-                    /* 데이터를 전송하기 전에 헤더에 csrf값을 설정 */
                     xhr.setRequestHeader(header, token);
                 },
                 dataType : "json",
@@ -92,7 +91,6 @@
                 url      : url,
                 type     : "DELETE",
                 beforeSend : function(xhr){
-                    /* 데이터를 전송하기 전에 헤더에 csrf값을 설정 */
                     xhr.setRequestHeader(header, token);
                 },
                 dataType : "json",
@@ -139,7 +137,6 @@
                 contentType : "application/json",
                 data     : param,
                 beforeSend : function(xhr){
-                    /* 데이터를 전송하기 전에 헤더에 csrf값을 설정 */
                     xhr.setRequestHeader(header, token);
                 },
                 dataType : "json",

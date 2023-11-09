@@ -17,7 +17,7 @@
 ![image](https://github.com/iamsalty77/shop/assets/135121777/fc890d1b-46d6-42f9-93ee-7810a583e6c0)
 #### ✒️로그인
 ![image](https://github.com/iamsalty77/shop/assets/135121777/cbc52909-ef27-4f43-84e6-53424c00e750)
-#### ✒️상품등록 / 상풍수정
+#### ✒️상품등록 / 상품수정
 ![image](https://github.com/iamsalty77/shop/assets/135121777/670b483a-0cdb-4bd9-9cd6-35ff7cfca054)
 #### ✒️상품관리
 ![image](https://github.com/iamsalty77/shop/assets/135121777/d185ff98-d5c4-4d09-972e-38ab237adabe)

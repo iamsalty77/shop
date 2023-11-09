@@ -8,3 +8,8 @@
 ● mysql 8.0.35<br>
 ● Maven<br>
 ● Intellij
+
+## 데이터 모델링
+![image](https://github.com/iamsalty77/shop/assets/135121777/4d448d8b-945c-4c9b-b2a2-61e77393b978)
+
+## 구현한 기능들

@@ -3,10 +3,11 @@
 #### 프로젝트 수행자 : 김진영(iamsalty77@gmail.com)
 
 ## 환경
-● Windows 10<br>
 ● Java 17<br>
-● MySQL 8.0.35<br>
-● Maven<br>
+● Spring Boot 3.1.1<br>
+● MySQL<br>
+● JPA<br>
+● Thymeleaf<br>
 ● Intellij
 
 ## 데이터 모델링
